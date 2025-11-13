@@ -19,7 +19,7 @@
   :seedling: Always learning and exploring **new technologies**
   :dancers: Open to collaborate on **exciting projects**
   :speech_bubble: Ask me about **React, Node.js, Laravel, and full-stack development**
-  :mailbox: Check out my [**Portfolio**](https://usmanahmed-dev.vercel.app/)
+  :mailbox: Check out my [**Portfolio**](https://falak-ahmad.web.app/)
 </div>
 <br>
 ## :hammer_and_spanner: Tech Arsenal
