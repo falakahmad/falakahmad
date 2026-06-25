@@ -175,7 +175,7 @@ const falakAhmad = {
 </tr>
 
 <tr>
-<td width="100%">
+<td width="50%">
 <h3 align="center">📊 CBase — Enterprise Dashboard</h3>
 <div align="center">
 <a href="https://cbase.kryptomind.net" target="_blank">
