@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://falak-ahmad.web.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/falak-ahmad-782571260/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/falak-ahmad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:falak.ahmad2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Remote%20Roles-brightgreen?style=for-the-badge"/>
 </p>
@@ -448,7 +448,7 @@ const falakAhmad = {
 <br><br>
 
 **📧 Email:** [falak.ahmad2003@gmail.com](mailto:falak.ahmad2003@gmail.com)  
-**💼 LinkedIn:** [Falak Ahmad](https://www.linkedin.com/in/falak-ahmad-782571260/)  
+**💼 LinkedIn:** [Falak Ahmad](https://www.linkedin.com/in/falak-ahmad/)  
 **🌍 Location:** Lahore, Pakistan · Open to Remote
 
 </div>
